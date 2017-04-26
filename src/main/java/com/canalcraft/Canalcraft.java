@@ -1,5 +1,6 @@
 package com.canalcraft;
 
+import com.canalcraft.proxy.CommonProxy;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
@@ -15,7 +16,7 @@ public class Canalcraft
 	
 	public static final String modId = "canalcraft";
 	public static final String name = "Canalcraft";
-	public static final String version "1.0b";
+	public static final String version = "1.0b";
 	
 	@Mod.Instance(modId)
 	public static Canalcraft instance;
