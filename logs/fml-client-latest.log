@@ -1,0 +1,12 @@
+[17:30:59] [main/DEBUG] [FML/]: Injecting tracing printstreams for STDOUT/STDERR.
+[17:30:59] [main/DEBUG] [FML/]: Creating vanilla freeze snapshot
+[17:30:59] [main/DEBUG] [FML/]: Vanilla freeze snapshot created
+[17:31:02] [Server thread/INFO] [FML/]: MinecraftForge v12.18.3.2281 Initialized
+[17:31:02] [Server thread/INFO] [FML/]: Replaced 231 ore recipes
+[17:31:02] [Server thread/INFO] [FML/]: No mod directory found, creating one: C:\Users\Samuel\Documents\GitHub\Canalcraft\mods
+[17:31:02] [Server thread/INFO] [FML/]: Mod directory created successfully
+[17:31:02] [Server thread/DEBUG] [FML/]: No config directory found, creating one: C:\Users\Samuel\Documents\GitHub\Canalcraft\config
+[17:31:02] [Server thread/INFO] [FML/]: Config directory created successfully
+[17:31:02] [Server thread/DEBUG] [FML/]: File C:\Users\Samuel\Documents\GitHub\Canalcraft\config\injectedDependencies.json not found. No dependencies injected
+[17:31:02] [Server thread/WARN] [FML/]: Can't revert to frozen GameData state without freezing first.
+[17:31:02] [Server thread/INFO] [FML/]: The state engine was in incorrect state CONSTRUCTING and forced into state SERVER_STOPPED. Errors may have been discarded.

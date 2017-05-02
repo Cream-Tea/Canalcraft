@@ -1,0 +1,15 @@
+[17:31:02] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[17:31:02] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.NullPointerException
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:359) ~[forgeSrc-1.10.2-12.18.3.2281.jar:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:531) ~[forgeSrc-1.10.2-12.18.3.2281.jar:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) ~[forgeSrc-1.10.2-12.18.3.2281.jar:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:328) ~[forgeSrc-1.10.2-12.18.3.2281.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer.startServer(DedicatedServer.java:124) ~[forgeSrc-1.10.2-12.18.3.2281.jar:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:497) [forgeSrc-1.10.2-12.18.3.2281.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_131]
+[17:31:02] [Server thread/ERROR]: This crash report has been saved to: C:\Users\Samuel\Documents\GitHub\Canalcraft\.\crash-reports\crash-2017-04-30_17.31.02-server.txt
+[17:31:02] [Server thread/INFO]: Stopping server
+[17:31:02] [Server thread/INFO]: Saving worlds
+[17:31:02] [Server Shutdown Thread/INFO]: Stopping server
+[17:31:02] [Server Shutdown Thread/INFO]: Saving worlds
