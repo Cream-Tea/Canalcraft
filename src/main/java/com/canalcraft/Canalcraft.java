@@ -1,9 +1,12 @@
 package com.canalcraft;
 
 import com.canalcraft.proxy.CommonProxy;
+<<<<<<< HEAD
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
+=======
+>>>>>>> origin/master
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
