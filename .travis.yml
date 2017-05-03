@@ -1,0 +1,8 @@
+language: java
+script: gradle build
+before_cache:
+  - rm -f  $HOME/.gradle/caches/*/
+  - rm -fr $HOME/.gradle/caches/*/
+  directories:
+    - $HOME/.gradle/caches/
+    - $HOME/.gradle/wrapper/
